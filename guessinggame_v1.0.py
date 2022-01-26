@@ -1,6 +1,6 @@
 #last updated 13102021
 
-print("Welcome to my word guessing game!")
+print("Welcome to my word guessing game! v1.0")
 
 #for game master to enter the secret word
 word = input("Key in your secret word here!: ")
