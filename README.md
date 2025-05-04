@@ -5,6 +5,5 @@ Check out my links:
 - Website: https://darrengohxy2002.wixsite.com/portfolio
 
 Contact Me!
-
 darrengohxy2002@gmail.com
 
