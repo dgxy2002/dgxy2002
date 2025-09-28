@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Supply-Chain Sustainability Tracker<br><br>🌱 I’m currently learning Databases, Web development, Data Analytics<br><br>👨‍💻 All of my projects are available at https://darrengohxy2002.wixsite.com/portfolio<br><br>📫 How to reach me darrengohxy2002@gmail.com<br><br>⚡ Fun fact I'm left-handed!
+🔭 I’m currently working on my startup: tsuk.ai!<br><br>🌱 I’m currently learning Databases, Web development, Data Analytics<br><br>👨‍💻 All of my projects are available at https://darrengohxy2002.wixsite.com/portfolio<br><br>📫 How to reach me darrengohxy2002@gmail.com<br><br>⚡ Fun fact I'm left-handed!
 
 
 ## 🌐 Socials:
