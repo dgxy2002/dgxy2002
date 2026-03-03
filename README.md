@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my startup: tsuk.ai!<br><br>🌱 I’m currently learning Web Development and Machine Learning<br><br>👨‍💻 All of my projects are available at https://darrengohxy2002.wixsite.com/portfolio<br><br>📫 How to reach me darrengohxy2002@gmail.com<br><br>⚡ Fun fact I'm left-handed!
+🔭 I’m currently working on my startup: tsuk.ai!<br><br>🌱 I’m currently learning Web Development and Machine Learning<br><br>👨‍💻 All of my projects are available at https://darrengoh.dev/<br><br>📫 How to reach me darrengohxy2002@gmail.com<br><br>⚡ Fun fact I'm left-handed!
 
 
 ## 🌐 Socials:
